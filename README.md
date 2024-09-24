@@ -3,9 +3,8 @@
 
 ### Software Engineer | Consultant | Mentor
 
-- 📍 Indore, Madhya Pradesh, India
+- 📍 Indore, India
 - 📧 manishcarpenter15@gmail.com
-- 📞 (+91) 97526 33800
 - 🌍 [LinkedIn](https://www.linkedin.com/in/your-profile)
 
 ---
