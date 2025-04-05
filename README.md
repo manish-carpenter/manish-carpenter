@@ -25,14 +25,6 @@ I am a multi-disciplined software engineer with 5+ years of experience in develo
 - Scalable Solutions
 - Business Requirements Analysis
 
-- **Programming:** TypeScript, JavaScript, Python, SQL, NoSQL
-- **Backend:** Node.js, Nest.js, FastAPI, TypeORM, Flask
-- **Frontend:** Angular
-- **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, EC2, Lambda, SQS, SNS, Athena, Glue
-- **Databases:** MSSQL, PostgreSQL, MongoDB
-- **Other Tools:** GitLab, PM2, Nginx, Linux
-
-
 ### 🔧 TECHNICAL SKILLS
 - **Languages:** TypeScript, Python, JavaScript, SQL
 - **Frameworks:** Node.js, Nest.js, Express, FastAPI, Angular, TypeORM
