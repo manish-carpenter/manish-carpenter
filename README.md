@@ -15,7 +15,15 @@ I am a multi-disciplined software engineer with 5+ years of experience in develo
 
 ---
 
-### 🛠 Primary Skills
+### 🛠 CORE COMPETENCIES
+- Software Architecture & Cloud Engineering
+- Full-Stack & API Development
+- Digital Twin & Industry 4.0
+- DevOps & Automation
+- Agile/Scrum Leadership & Mentorship
+- Technical Documentation
+- Scalable Solutions
+- Business Requirements Analysis
 
 - **Programming:** TypeScript, JavaScript, Python, SQL, NoSQL
 - **Backend:** Node.js, Nest.js, FastAPI, TypeORM, Flask
@@ -24,12 +32,15 @@ I am a multi-disciplined software engineer with 5+ years of experience in develo
 - **Databases:** MSSQL, PostgreSQL, MongoDB
 - **Other Tools:** GitLab, PM2, Nginx, Linux
 
----
 
-### 🔧 Secondary Skills
-
-- **IoT & Embedded Systems:** MQTT, RabbitMQ, OPC-UA, Arduino, Raspberry Pi
-- **Protocols:** REST APIs, HTTPS, OPC-UA, MQTT, WebSocket
+### 🔧 TECHNICAL SKILLS
+- **Languages:** TypeScript, Python, JavaScript, SQL
+- **Frameworks:** Node.js, Nest.js, Express, FastAPI, Angular, TypeORM
+- **Cloud & DevOps:** AWS, Lambda, DynamoDB, EC2, Cognito, S3, SQS), Docker, GitLab CI/CD
+- **Databases:** PostgreSQL, MongoDB, MSSQL
+- **Architecture:** Microservices, Serverless, DDD, TDD, SOLID
+- **Protocols & IoT:** MQTT, OPC-UA, RabbitMQ, Arduino, Raspberry Pi
+- **Tools:** Nginx, PM2, Azure DevOps, Jira
 
 ---
 
